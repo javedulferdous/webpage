@@ -2,7 +2,6 @@
 
 Currently available 
 <ol>
-  <li>About</li>
-  <li>Vitae</li>
-  
+  <li><a href="https://www.cs.odu.edu/~mferdous/index.html">About</a></li>
+  <li><a href="https://www.cs.odu.edu/~mferdous/vitae.html">Vitae</a></li>
 </ol>
